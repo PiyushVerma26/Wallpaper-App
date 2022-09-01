@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="search">Search</string>
+    <string name="nature">Nature</string>
+    <string name="trending">Trending</string>
+    <string name="logo">Logo</string>
+    <string name="cars">Cars</string>
+    <string name="games">Games</string>
+    <string name="god">God</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+</resources>
